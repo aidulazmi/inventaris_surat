@@ -45,7 +45,7 @@
       <nav class="mt-2">
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <li class="nav-item">
-            <a href="<?php echo site_url('C_admin/index')?>" class="nav-link">
+            <a href="" class="nav-link">
               <i class="nav-icon fas fa-home"></i>
               <p>
                 Home
@@ -53,7 +53,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="<?php echo site_url('C_admin/kategori')?>" class="nav-link">
+            <a href="<?php echo site_url('C_user/kategori')?>" class="nav-link">
               <i class="nav-icon fas fa-list"></i>
               <p>
                 Kategori
@@ -61,7 +61,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="<?php echo site_url('C_admin/surat')?>" class="nav-link">
+            <a href="<?php echo site_url('C_user/surat')?>" class="nav-link">
               <i class="nav-icon fas fa-database"></i>
               <p>
                 Dokumen
